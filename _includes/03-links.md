@@ -1,1 +1,5 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](https://www.github.com/mahanan)
+
+[Facebook](https://www.facebook.com/mahanan360)
+
+[Twitter](https://www.twitter.com/steva02)
